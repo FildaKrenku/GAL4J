@@ -74,3 +74,9 @@ engine.getPopulation().getBestChromosome().printGenes();
 ```
 
 ---
+
+## Used software 
+
+- [Eclipse IDE](https://www.eclipse.org/ide/) – Java development environment
+
+---
