@@ -31,9 +31,6 @@ Than just add GAL4J.jar to your build path of you project and you are ready.
 - Java 17 or higher
 - Maven 3.9 or higher
 
-[![Java](https://img.shields.io/badge/Java-17%2B-blue.svg)](https://www.oracle.com/java/)
-[![Build with Maven](https://img.shields.io/badge/build-Maven-blue.svg)](https://maven.apache.org/)
-
 ---
 
 ## Example Usage
