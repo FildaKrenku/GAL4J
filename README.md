@@ -23,12 +23,16 @@ cd gal4j
 mvn clean package
 ```
 Than just add GAL4J.jar to your build path of you project and you are ready.
+
 ---
 
 ## Requirements
 
 - Java 17 or higher
 - Maven 3.9 or higher
+
+[![Java](https://img.shields.io/badge/Java-17%2B-blue.svg)](https://www.oracle.com/java/)
+[![Build with Maven](https://img.shields.io/badge/build-Maven-blue.svg)](https://maven.apache.org/)
 
 ---
 
@@ -71,3 +75,5 @@ engine.run();
 System.out.println("Best solution:");
 engine.getPopulation().getBestChromosome().printGenes(); 
 ```
+
+---
