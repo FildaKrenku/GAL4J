@@ -1,0 +1,8 @@
+examples
+gal4j.algorithm
+gal4j.chromosome
+gal4j.multithread
+gal4j.operators.crossover
+gal4j.operators.mutation
+gal4j.operators.selection
+gal4j.utils

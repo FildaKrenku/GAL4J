@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"examples"},{"l":"gal4j.algorithm"},{"l":"gal4j.chromosome"},{"l":"gal4j.multithread"},{"l":"gal4j.operators.crossover"},{"l":"gal4j.operators.mutation"},{"l":"gal4j.operators.selection"},{"l":"gal4j.utils"}];updateSearchResults();
